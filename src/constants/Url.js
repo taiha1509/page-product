@@ -1,0 +1,1 @@
+export const BaseUrlImage = 'http://127.0.0.1/magento235/pub/media/catalog/product'
